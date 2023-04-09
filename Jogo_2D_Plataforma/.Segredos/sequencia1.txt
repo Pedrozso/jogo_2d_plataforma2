@@ -1,0 +1,2 @@
+'A' 'baixo' 'cima' 'A' 'baixo' 'cima', Tocará o audio 'Song of Storms' além de causar uma tempestade 
+visual no jogo, em referência a 'The Legend of Zelda: Ocarine of Time'
